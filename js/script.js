@@ -21,7 +21,12 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["Developer, Innovator.", "Achiever.", " AI/ML Enthusiast."],
+    strings: [
+      "Java Software Developer.",
+      "Innovator.",
+      "Achiever.",
+      " AI/ML Enthusiast.",
+    ],
     typeSpeed: 70,
     loop: true,
     startDelay: 1000,
